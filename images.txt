@@ -5,4 +5,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 #rancher/rancher:v2.8.5
-nginx:1.27.0
+easzlab/kubeasz-sys-pkg:1.0.3_ubuntu_18

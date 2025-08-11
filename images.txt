@@ -4,6 +4,6 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-rancher/rancher:v2.7.11
+#rancher/rancher:v2.7.11
 rancher/rancher:v2.7.5
 #easzlab/kubeasz-sys-pkg:1.0.3_ubuntu_18

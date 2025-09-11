@@ -4,6 +4,7 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-rancher/rancher:v2.9.3
+#rancher/rancher:v2.9.3
 #--platform=arm64  rancher/kube-api-auth:v0.1.8 
 #easzlab/kubeasz-sys-pkg:1.0.3_ubuntu_18
+flannel-cni-plugin:v1.1.2

@@ -8,4 +8,5 @@
 #--platform=arm64  rancher/kube-api-auth:v0.1.8 
 #easzlab/kubeasz-sys-pkg:1.0.3_ubuntu_18
 #flannel-cni-plugin:v1.1.2
-flannel/flannel:v0.19.2
+#flannel/flannel:v0.19.2
+quay-mirror.qiniu.com/coreos/flannel:v0.19.2

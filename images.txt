@@ -11,4 +11,5 @@
 #flannel/flannel:v0.19.2
 #quay-mirror.qiniu.com/coreos/flannel:v0.19.2
 #rancher/rancher:v2.6.11
-rancher/rancher-agent:v2.6.11
+#rancher/rancher-agent:v2.6.11
+rancher/rke-tools:v0.1.88

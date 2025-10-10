@@ -9,4 +9,6 @@
 #easzlab/kubeasz-sys-pkg:1.0.3_ubuntu_18
 #flannel-cni-plugin:v1.1.2
 #flannel/flannel:v0.19.2
-quay-mirror.qiniu.com/coreos/flannel:v0.19.2
+#quay-mirror.qiniu.com/coreos/flannel:v0.19.2
+rancher/rancher:v2.6.11
+

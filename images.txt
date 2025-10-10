@@ -13,4 +13,5 @@
 #rancher/rancher:v2.6.11
 #rancher/rancher-agent:v2.6.11
 #rancher/rke-tools:v0.1.88
-rancher/mirrored-coreos-etcd:v3.5.3
+#rancher/mirrored-coreos-etcd:v3.5.3
+rancher/hyperkube:v1.23.16-rancher2

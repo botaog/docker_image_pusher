@@ -17,4 +17,5 @@
 #rancher/hyperkube:v1.23.16-rancher2
 #ghcr.io/flannel-io/flannel-cni-plugin:v1.8.0-flannel1
 #ghcr.io/flannel-io/flannel:v0.27.4
-mysql:5.7.44 --platform arm64
+#mysql:5.7.44 --platform arm64
+rancher/rke-tools:v0.1.80

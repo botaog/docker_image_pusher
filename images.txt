@@ -22,5 +22,5 @@
 #rancher/hyperkube:v1.20.15-rancher2
 #rancher/mirrored-pause:3.6
 #polinux/stress:1.0.4
-rancher/rancher:v2.7.11
-rancher/rancher-agent:v2.7.11
+rancher/rancher:v2.7.10
+rancher/rancher-agent:v2.7.10

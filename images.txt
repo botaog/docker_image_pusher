@@ -24,4 +24,5 @@
 #polinux/stress:1.0.4
 #rancher/rancher:v2.7.10
 #rancher/rancher-agent:v2.7.10
---platform=linux/arm64 registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.0.0 
+#--platform=linux/arm64 registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.0.0 
+docker.io/liangjw/kube-webhook-certgen:v1.1.1

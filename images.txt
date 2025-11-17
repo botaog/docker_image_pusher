@@ -27,4 +27,4 @@
 #--platform=linux/arm64 registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.0.0 
 #docker.io/liangjw/kube-webhook-certgen:v1.1.1
 #docker.io/projecthami/hami:v2.7.1
-nvidia/cuda:11.8.0-base
+nvidia/cuda:11.6.1-base-ubuntu20.04

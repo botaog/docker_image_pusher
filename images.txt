@@ -30,4 +30,4 @@
 #nvidia/cuda:11.6.1-base-ubuntu20.04
 # --platform=linux/arm64 docker.io/flannel/flannel-cni-plugin:v1.2.0 
 # --platform=linux/arm64 docker.io/flannel/flannel:v0.22.3
-busybox:1.36
+--platform=linux/arm64 busybox:1.36

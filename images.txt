@@ -33,4 +33,5 @@
 #--platform=linux/arm64 busybox:1.36
 #--platform=linux/arm64 docker.io/calico/cni:v3.25.0
 #--platform=linux/arm64 docker.io/calico/kube-controllers:v3.25.0
---platform=linux/arm64 docker.io/volcanosh/vc-webhook-manager:latest
+#--platform=linux/arm64 docker.io/volcanosh/vc-webhook-manager:latest
+--platform=linux/arm64 docker.io/volcanosh/vc-scheduler:latest

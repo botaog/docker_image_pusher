@@ -38,4 +38,4 @@
 #docker.io/calico/apiserver:v3.28.4
 #registry.k8s.io/nfd/node-feature-discovery:v0.15.3
 #projecthami/hami-scheduler:v2.6.1
-rancher/mirrored-coreos-etcd:v3.5.9
+rancher/mirrored-cluster-proportional-autoscaler:1.8.6

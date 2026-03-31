@@ -40,4 +40,4 @@
 #projecthami/hami-scheduler:v2.6.1
 #rancher/mirrored-cluster-proportional-autoscaler:1.8.6
 #rancher/hyperkube:v1.24.10-rancher4
-centos:7.6
+centos:centos7.6.1810

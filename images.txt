@@ -40,8 +40,5 @@
 #projecthami/hami-scheduler:v2.6.1
 #rancher/mirrored-cluster-proportional-autoscaler:1.8.6
 #rancher/hyperkube:v1.24.10-rancher4
-ghcr.io/berriai/litellm:main-stable
-docker.m.daocloud.io/postgres:16
-docker.m.daocloud.io/prom/prometheus
-registry:2
+megaxcn/predixy:latest --platform arm64
 

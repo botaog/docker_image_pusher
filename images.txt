@@ -41,4 +41,4 @@
 #rancher/mirrored-cluster-proportional-autoscaler:1.8.6
 #rancher/hyperkube:v1.24.10-rancher4
 #--platform=linux/arm64 megaxcn/predixy:latest
- clickhouse/clickhouse-server:25.5
+--platform=linux/arm64 nginx:1.27.4

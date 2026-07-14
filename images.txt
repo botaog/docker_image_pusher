@@ -41,4 +41,4 @@
 #rancher/mirrored-cluster-proportional-autoscaler:1.8.6
 #rancher/hyperkube:v1.24.10-rancher4
 #--platform=linux/arm64 megaxcn/predixy:latest
---platform=linux/arm64 nginx:1.27.4
+nvidia/cuda:11.2.2-cudnn8-runtime-ubuntu20.04

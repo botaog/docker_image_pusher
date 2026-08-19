@@ -43,6 +43,8 @@
 #--platform=linux/arm64 megaxcn/predixy:latest
 #nvidia/cuda:11.2.2-cudnn8-runtime-ubuntu20.04
 #--platform=linux/arm64 curlimages/curl:8.7.1
---platform=linux/arm64 apache/skywalking-banyandb:0.9.0
+#--platform=linux/arm64 apache/skywalking-banyandb:0.9.0
 #--platform=linux/arm64 apache/skywalking-oap-server:10.3.0
 #--platform=linux/arm64 apache/skywalking-ui:10.3.0
+minio/minio:RELEASE.2024-12-18T13-15-44Z
+milvusdb/milvus:v2.6.7

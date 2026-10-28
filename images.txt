@@ -46,14 +46,4 @@
 #--platform=linux/arm64 apache/skywalking-banyandb:0.9.0
 #--platform=linux/arm64 apache/skywalking-oap-server:10.3.0
 #--platform=linux/arm64 apache/skywalking-ui:10.3.0
---platform=linux/arm64 registry.k8s.io/kube-apiserver:v1.28.15
---platform=linux/arm64 registry.k8s.io/kube-controller-manager:v1.28.15
---platform=linux/arm64 registry.k8s.io/kube-scheduler:v1.28.15
---platform=linux/arm64 registry.k8s.io/kube-proxy:v1.28.15
---platform=linux/arm64 registry.k8s.io/pause:3.9
---platform=linux/arm64 registry.k8s.io/etcd:3.5.15-0
---platform=linux/arm64 registry.k8s.io/coredns/coredns:v1.10.1
-
---platform=linux/arm64 docker.io/calico/cni:v3.27.4
---platform=linux/arm64 docker.io/calico/node:v3.27.4
---platform=linux/arm64 docker.io/calico/kube-controllers:v3.27.4
+ ubuntu:24.04

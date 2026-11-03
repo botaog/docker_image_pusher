@@ -46,4 +46,6 @@
 #--platform=linux/arm64 apache/skywalking-banyandb:0.9.0
 #--platform=linux/arm64 apache/skywalking-oap-server:10.3.0
 #--platform=linux/arm64 apache/skywalking-ui:10.3.0
---platform=linux/arm64 elastic/filebeat:9.4.0
+jettech/kube-webhook-certgen:v1.5.2
+liangjw/kube-webhook-certgen:v1.1.1
+registry.cn-hangzhou.aliyuncs.com/google_containers/kube-scheduler:v1.26.11

@@ -48,4 +48,5 @@
 #--platform=linux/arm64 apache/skywalking-ui:10.3.0
 #liangjw/kube-webhook-certgen:v1.1.1
 #registry.cn-hangzhou.aliyuncs.com/google_containers/kube-scheduler:v1.26.11
-apache/doris:2.1.11
+apache/doris:be-2.1.11
+apache/doris:fe-2.1.11
